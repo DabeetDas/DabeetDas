@@ -14,8 +14,10 @@ IIT Kanpur undergraduate focused on **applied ML and system-level problem solvin
 
 ## Current Focus
 
--**Image & Video Understanding:** Deep CNNs, Attention mechanisms, Medical Imaging. 
+-**Image & Video Understanding:** Deep CNNs, Attention mechanisms, Medical Imaging.
+
 -**Natural Language Processing**: Text Embeddings, Semantic Similarity, Information Retrieval. 
+
 -**Foundations**: Strong command of Core CS algorithms and data structures. 
 
 ## Technical Stack
@@ -33,15 +35,22 @@ IIT Kanpur undergraduate focused on **applied ML and system-level problem solvin
 
 ### Machine Learning & Data
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="40" alt="SciPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-Learn"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.svg" height="40" alt="HuggingFace"/>
+  <img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo.png" height="40" alt="Unsloth"/>
 </p>
-
 ---
 
 
