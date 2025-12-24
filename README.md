@@ -8,13 +8,7 @@ Machine Learning · Systems Thinking · Research-driven Engineering
 
 ## Overview
 
-I am an undergraduate at IIT Kanpur with a strong inclination toward **machine learning, applied research, and system-level problem solving**.  
-My interests sit at the intersection of **data, algorithms, and real-world constraints** — where modeling decisions, computational efficiency, and correctness matter as much as raw performance.
-
-I am particularly interested in:
-- Representation learning and clustering at scale  
-- Learning-based decision system
-- Building reliable ML systems under time, memory, and data constraints  
+IIT Kanpur undergraduate focused on **applied ML and system-level problem solving.** I specialize in building reliable models under real-world constraints (time, memory, data), with research interests in **scalable representation learning and learning-based decision systems.**
 
 ---
 
@@ -48,6 +42,8 @@ I am particularly interested in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
 </p>
 
 <p>
