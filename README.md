@@ -58,8 +58,15 @@ IIT Kanpur undergraduate focused on **applied ML and system-level problem solvin
          style="margin-right:12px;" />
   </a>
 
+  <a href="mailto:dabeetkd24@iitk.ac.in">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
+         alt="Email"
+         height="32"
+         style="margin-right:12px;" />
+  </a>
+
   <a href="http://instagram.com/__dabeet" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"
          alt="Instagram"
          height="32" />
   </a>
