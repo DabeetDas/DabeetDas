@@ -1,16 +1,13 @@
-<h1 align="center">Dabeet Das</h1>
+<h1 align="center">Hey! I'm Dabeet 👋 </h1>
 <p align="center">
 Undergraduate, Materials Science & Engineering · IIT Kanpur<br>
 Machine Learning · Systems Thinking · Research-driven Engineering
 </p>
 
----
-
 ## Overview
 
 IIT Kanpur undergraduate focused on **applied ML and system-level problem solving.** I specialize in building reliable models under real-world constraints (time, memory, data), with research interests in **scalable representation learning and learning-based decision systems.**
 
----
 
 ## Current Focus
 
@@ -50,7 +47,6 @@ IIT Kanpur undergraduate focused on **applied ML and system-level problem solvin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.svg" height="40" alt="HuggingFace"/>
 </p>
----
 
 
 ## Contact
