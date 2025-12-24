@@ -43,13 +43,12 @@ IIT Kanpur undergraduate focused on **applied ML and system-level problem solvin
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="40" alt="SciPy"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" height="40" alt="Github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-Learn"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/huggingface-icon.svg" height="40" alt="HuggingFace"/>
-  <img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo.png" height="40" alt="Unsloth"/>
 </p>
 ---
 
