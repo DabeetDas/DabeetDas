@@ -14,13 +14,9 @@ IIT Kanpur undergraduate focused on **applied ML and system-level problem solvin
 
 ## Current Focus
 
-- Developing **image and video understanding pipelines**, including:
-  - Feature extraction using deep CNN backbones
-  - Attention-based architectures for medical imaging tasks
-- Working on **natural language processing systems**, with a focus on:
-  - Text representation, embedding models, and semantic similarity
-  - Building retrieval and analysis pipelines over unstructured text
-- Strengthening **core computer science fundamentals**.
+-**Image & Video Understanding:** Deep CNNs, Attention mechanisms, Medical Imaging.
+-**Natural Language Processing**: Text Embeddings, Semantic Similarity, Information Retrieval.
+-**Foundations**: Strong command of Core CS algorithms and data structures.
 
 ## Technical Stack
 
@@ -46,29 +42,8 @@ IIT Kanpur undergraduate focused on **applied ML and system-level problem solvin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Representation%20Learning-000000?style=for-the-badge"/>
-</p>
-
-### Systems & Tooling
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/CLI%20Tooling-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Reproducible%20Pipelines-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Experiment%20Tracking-000000?style=for-the-badge"/>
-</p>
-
 ---
 
-## Looking Ahead
-
-I am working toward:
-- Deeper research exposure in ML / AI  
-
----
 
 ## Contact
 
