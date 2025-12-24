@@ -17,7 +17,7 @@ IIT Kanpur undergraduate focused on **applied ML and system-level problem solvin
 
 ## Technical Stack
 
-### Languages
+### Languages & Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
@@ -26,6 +26,7 @@ IIT Kanpur undergraduate focused on **applied ML and system-level problem solvin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" height="40"/>
 </p>
 
 ### Machine Learning & Data
