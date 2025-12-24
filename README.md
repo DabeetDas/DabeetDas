@@ -11,11 +11,9 @@ IIT Kanpur undergraduate focused on **applied ML and system-level problem solvin
 
 ## Current Focus
 
--**Image & Video Understanding:** Deep CNNs, Attention mechanisms, Medical Imaging.
-
--**Natural Language Processing**: Text Embeddings, Semantic Similarity, Information Retrieval. 
-
--**Foundations**: Strong command of Core CS algorithms and data structures. 
+- **Image & Video Understanding:** Deep CNNs, Attention mechanisms, Medical Imaging.
+- **Natural Language Processing**: Text Embeddings, Semantic Similarity, Information Retrieval. 
+- **Foundations**: Strong command of Core CS algorithms and data structures. 
 
 ## Technical Stack
 
