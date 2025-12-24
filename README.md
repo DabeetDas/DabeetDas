@@ -35,6 +35,10 @@ I am particularly interested in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </p>
 
 ### Machine Learning & Data
@@ -47,15 +51,12 @@ I am particularly interested in:
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/UMAP-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KMeans-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Representation%20Learning-000000?style=for-the-badge"/>
 </p>
 
 ### Systems & Tooling
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 </p>
 
 <p>
