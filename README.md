@@ -66,7 +66,7 @@ IIT Kanpur undergraduate focused on **applied ML and system-level problem solvin
   </a>
 
   <a href="http://instagram.com/__dabeet" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
          alt="Instagram"
          height="32" />
   </a>
