@@ -79,14 +79,22 @@ I am working toward:
 
 ## Contact
 
-- Instagram: http://instagram.com/__dabeet  
-- LinkedIn: https://www.linkedin.com/in/dabeet-das-a17bb22ba/  
+<p align="left">
+  <a href="https://www.linkedin.com/in/dabeet-das-a17bb22ba/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         height="32"
+         style="margin-right:12px;" />
+  </a>
+
+  <a href="http://instagram.com/__dabeet" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+         alt="Instagram"
+         height="32" />
+  </a>
+</p>
 
 ---
-
-<p align="center">
-<i>Signal over noise. Depth over breadth.</i>
-</p>
 
 
 <!--
