@@ -22,15 +22,11 @@ I am particularly interested in:
 
 - Developing **image and video understanding pipelines**, including:
   - Feature extraction using deep CNN backbones
-  - Representation learning with unsupervised clustering and low-dimensional embedding analysis
   - Attention-based architectures for medical imaging tasks
 - Working on **natural language processing systems**, with a focus on:
   - Text representation, embedding models, and semantic similarity
   - Building retrieval and analysis pipelines over unstructured text
-- Strengthening **core computer science fundamentals**, including:
-  - Data structures and algorithms
-  - Systems-level thinking
-  - Mathematical foundations of machine learning
+- Strengthening **core computer science fundamentals**.
 
 ## Technical Stack
 
