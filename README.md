@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey+,+I+am+Dabeet" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey+!+I+am+Dabeet" />
 </h1>
 <p align="center">
 Undergraduate, Materials Science & Engineering · IIT Kanpur<br>
