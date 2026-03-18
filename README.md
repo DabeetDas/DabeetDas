@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
 Undergraduate, Materials Science & Engineering · IIT Kanpur<br>
-Machine Learning · Systems Thinking · Research-driven Engineering
+Machine Learning · Computer Vision · Research-driven Engineering
 </p>
 
 ## Overview
