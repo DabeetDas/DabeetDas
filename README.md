@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
 Undergraduate, Materials Science & Engineering · IIT Kanpur<br>
-Machine Learning · Computer Vision · Neuroimaging
+Computer Vision · Neuroimaging · Natural Language Processing
 </p>
 
 ## Overview
